@@ -77,7 +77,7 @@ namespace Management_RC
                            .Append(".txt");
 
                 string newPath = _path + tempPath;
-                File.Create(newPath);
+                File.Create(newPath).Close();
             }
             Console.WriteLine("Done");
         }
