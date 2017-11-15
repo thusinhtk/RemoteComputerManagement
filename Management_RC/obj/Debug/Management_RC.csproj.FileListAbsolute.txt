@@ -1,0 +1,15 @@
+C:\Users\phuongit\source\repos\Management_RC\Management_RC\obj\Debug\Management_RC.csprojResolveAssemblyReference.cache
+C:\Users\phuongit\source\repos\Management_RC\Management_RC\obj\Debug\Management_RC.csproj.CoreCompileInputs.cache
+C:\Users\phuongit\source\repos\Management_RC\Management_RC\bin\Debug\Management_RC.exe
+C:\Users\phuongit\source\repos\Management_RC\Management_RC\bin\Debug\Management_RC.pdb
+C:\Users\phuongit\source\repos\Management_RC\Management_RC\obj\Debug\Management_RC.csproj.ResolveComReference.cache
+C:\Users\phuongit\source\repos\Management_RC\Management_RC\obj\Debug\Management_RC.exe
+C:\Users\phuongit\source\repos\Management_RC\Management_RC\obj\Debug\Management_RC.pdb
+E:\LEARNING\Developer\MR_Sequence22_Tools\Management_RemoteComputer\Management_RC\Management_RC\bin\Debug\Management_RC.exe
+E:\LEARNING\Developer\MR_Sequence22_Tools\Management_RemoteComputer\Management_RC\Management_RC\bin\Debug\Management_RC.pdb
+E:\LEARNING\Developer\MR_Sequence22_Tools\Management_RemoteComputer\Management_RC\Management_RC\obj\Debug\Management_RC.csprojResolveAssemblyReference.cache
+E:\LEARNING\Developer\MR_Sequence22_Tools\Management_RemoteComputer\Management_RC\Management_RC\obj\Debug\Management_RC.csproj.ResolveComReference.cache
+E:\LEARNING\Developer\MR_Sequence22_Tools\Management_RemoteComputer\Management_RC\Management_RC\obj\Debug\Management_RC.csproj.CoreCompileInputs.cache
+E:\LEARNING\Developer\MR_Sequence22_Tools\Management_RemoteComputer\Management_RC\Management_RC\obj\Debug\Management_RC.exe
+E:\LEARNING\Developer\MR_Sequence22_Tools\Management_RemoteComputer\Management_RC\Management_RC\obj\Debug\Management_RC.pdb
+E:\LEARNING\Developer\MR_Sequence22_Tools\Management_RemoteComputer\Management_RC\Management_RC\bin\Debug\Management_RC.exe.config
