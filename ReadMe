@@ -1,0 +1,12 @@
+Follow steps bellow to setting and run this tool:
+1. Build -> get file .exe from bin/Debug or bin/Realease
+2. Go to Task Schedule of windows:
+  2.1: Create Task
+  2.2: Config info:
+    - Setting name of task. Ex: Logon-Logs
+    - Click Change User or Group to setting this task will following
+    .....
+
+3. Save
+This task will run when u login ....
+Happy coding @@
